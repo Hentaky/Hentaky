@@ -28,8 +28,9 @@
 </div>
 
 ###
-
+  <a href="https://count.getloli.com/get/@aiko-chan-ai?theme=rule34" target="_blank">
+    <img src="https://count.getloli.com/get/@aiko-chan-ai?theme=rule34"  />
+  </a>
 <br clear="both">
-
 
 ###
