@@ -23,7 +23,7 @@
 
 <div align="left">
   <a href="hentaky" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=hentaky&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://lanyard.cnrad.dev/api/795026750597103626?idleMessage=Idk"  />
   </a>
 </div>
 
