@@ -22,7 +22,7 @@
 ###
 
 <div align="left">
-  <a href="hentaky" target="_blank">
+  <a href="https://discord.com/users/795026750597103626" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/795026750597103626?idleMessage=Idk"  />
   </a>
 </div>
